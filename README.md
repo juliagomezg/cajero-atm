@@ -18,6 +18,11 @@ Esta aplicación simula la interacción con un cajero automático, permitiendo a
 - **Historial de transacciones**:
   - Cada movimiento (depósito, retiro, consulta) se registra en un historial detallado.
 
+## 🌐 Demo en vivo
+
+Puedes probar la aplicación en el siguiente enlace:  
+🔗 [Cajero Automático en Vercel](https://cajero-atm-lake.vercel.app/)
+
 ## 🖥️ Tecnologías utilizadas
 
 - **Frontend**:
